@@ -29,6 +29,7 @@ aPackageInfo = [
 		"extensions/ringopengl/opengl11/buildclang.sh",
 		"extensions/ringopengl/opengl11/buildgcc.sh",
 		"extensions/ringopengl/opengl11/buildvc.bat",
+		"extensions/ringopengl/opengl11/buildvc_x64.bat",
 		"extensions/ringopengl/opengl11/document.bat",
 		"extensions/ringopengl/opengl11/gencode.bat",
 		"extensions/ringopengl/opengl11/gencode.sh",
